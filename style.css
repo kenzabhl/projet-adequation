@@ -1,0 +1,125 @@
+body {
+   background-color: #495057;
+ }
+ body {
+   border-left: 250px solid black;
+   border-right: 250px solid black;
+ }
+ 
+#header1 {
+        background-image: url("bg_header.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 200px;
+      } 
+      #imgheader {
+         display:flex;
+        justify-content: center;
+     }
+     #imagessd{ 
+        display:flex;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+          }
+    #img1{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+     }
+     #img2 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+     }
+     #img3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+     }
+     #imgheader {
+      display:flex;
+     justify-content: center;
+  }
+  #divimgbas{ 
+     display:flex;
+     justify-content: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 20px;
+     margin-right: 20px;
+       }
+ #imgbas1{
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+  }
+  #imgbas2 {
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+  }
+  #imgbas3 {
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+  }
+
+  #divimgbas2{ 
+   display:flex;
+   justify-content: center;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+     }
+#imgbas4{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+#imgbas5 {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+#imgbas6 {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+#footer {
+   background-image: url("bg_footer.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 200px;
+ } 
+
+ #card1 {
+   border-radius: 0;
+ }
+
+ #card2 {
+   border-radius: 0;
+ }
+
+ #card3 {
+   border-radius: 0;
+ }
+
+ #card4 {
+   border-radius: 0;
+ }
