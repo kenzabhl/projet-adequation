@@ -1,9 +1,10 @@
 body {
-   background-color: #495057;
+   max-width: 1400px;
+   min-width: 1400px;
  }
  body {
-   border-left: 250px solid black;
-   border-right: 250px solid black;
+   border-left: 200px solid black;
+   border-right: 200px solid black;
  }
  
 #header1 {
@@ -19,11 +20,12 @@ body {
      }
      #imagessd{ 
         display:flex;
-        justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
         margin-left: 20px;
         margin-right: 20px;
+        height: 220px;
+        width: 220px;
           }
     #img1{
         margin-top: 10px;
@@ -49,11 +51,12 @@ body {
   }
   #divimgbas{ 
      display:flex;
-     justify-content: center;
      margin-top: 10px;
      margin-bottom: 10px;
      margin-left: 20px;
      margin-right: 20px;
+     height: 200px;
+     width: 200px;
        }
  #imgbas1{
      margin-top: 10px;
@@ -76,11 +79,12 @@ body {
 
   #divimgbas2{ 
    display:flex;
-   justify-content: center;
    margin-top: 10px;
    margin-bottom: 10px;
    margin-left: 20px;
    margin-right: 20px;
+   height: 200px;
+   width: 200px;
      }
 #imgbas4{
    margin-top: 10px;
@@ -108,18 +112,36 @@ body {
    height: 200px;
  } 
 
+
  #card1 {
    border-radius: 0;
+   height: 400px; 
+   width: 400px;
+   margin-top: 5px;
+    margin-left:  100px;
+   margin-top: 90px;
+   border: 1px;
  }
+
 
  #card2 {
    border-radius: 0;
+   border: 0;
  }
 
  #card3 {
    border-radius: 0;
+  
+   
  }
 
  #card4 {
    border-radius: 0;
+   
+  
  }
+
+ 
+
+
+ 
